@@ -9,9 +9,7 @@ Overview
 
 This was built for the course: **Developing Data Products** as part of the Coursera Data Science Specialization.
 
-The shiny app developed for this assignment is avalilable: https://magnolia.shinyapps.io/Shiny-Application-and-Reproducible-Pitch/
-
-The source codes of ui.R and server.R and also Rpresentation are available on the GitHub repo: https://github.com/Magnoliam/Shiny-Application-and-Reproducible-Pitch
+The source codes of ui.R and server.R and also Rpresentation are available on the GitHub repo: https://github.com/rpallothu/shinyapp/tree/master/ShinyApp
 
 Exam Marks Calculation and Interpretation
 ========================================================
